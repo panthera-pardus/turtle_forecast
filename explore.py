@@ -64,7 +64,7 @@ month_count["prob_month_capture"] = month_count["month_count"]/month_count["tota
 # Need a variable to capture this asymmetry
 
 # Do some researchers catch more than others (per year)?
-# Are some fishers mroe likely to rescue? Moral hazard
+# Are some fishers more likely to rescue? Moral hazard
 # Are some species more likely to be captured?
 # Are there many recaptures?
 # Do some some turtles get rescued more?
